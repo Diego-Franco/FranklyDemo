@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">FnkyDemo</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_search">Search</string>
+    <string name="action_add">Add Song</string>
+
+    <string name="add_title">Add Title</string>
+    <string name="add_artist">Add Artist</string>
+    <string name="add_album">Add Album</string>
+
+    <string name="title_dialog_delete">Delete item</string>
+
+    <string name="save_warning">Do you need fill all fields</string>
+    <string name="delete_warning">Do you delete this item, are you sure?</string>
+</resources>
